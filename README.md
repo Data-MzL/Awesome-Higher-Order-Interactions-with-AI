@@ -38,7 +38,7 @@
 |JuliaTDA|Julia|SCs|TDA|[[Code]](https://github.com/JuliaTDA)|
 |JavaPlex|Java, Matlab|SCs|Persistent homology|[[Code]](https://github.com/appliedtopology/javaplex)|
 |giotto-tda|Python, scikit-learn|SCs|TML|[[Code]](https://github.com/giotto-ai/giotto-tda)
-|TopologyLayer|Python, Pytorch|SCs|TDL, Persistent homology |[[Code]](https://github.com/bruel-|gabrielsson/TopologyLayer)|
+|TopologyLayer|Python, Pytorch|SCs|TDL, Persistent homology|[[Code]](https://github.com/bruel-gabrielsson/TopologyLayer)|
 |giotto-deep|Python, Pytorch|SCs|TDL|[[Code]](https://github.com/giotto-ai/giotto-deep)|
 |torch-tda|Python, Pytorch|SCs|Automatic differentiation, TDA|[[Code]](https://github.com/CompTop/torch-tda)|
 |torch_topological|Python, Pytorch|SCs|TML|[[Code]](https://github.com/aidos-lab/pytorch-topological)|
@@ -48,6 +48,7 @@
 
 ----------
 ## Related research paper of HOI
+
 <table border="1">
     <thead>
         <tr>
@@ -92,7 +93,7 @@
             <td>-</td>
         </tr>
         <tr>
-            <td rowspan="5">Statistical Inference Method</td>
+            <td rowspan="3">Statistical Inference Method</td>
             <td>BHyRe<sup>[6]</sup></td>
             <td>Inference</td>
             <td>Commun.Phys.'2021</td>
@@ -111,6 +112,7 @@
             <td><a href="https://github.com/barahona-research-group/streitberg-interaction">GitHub</a></td>
         </tr>
         <tr>
+            <td rowspan="3">Information-Theoretic Approach for HOI</td>
             <td>LHOIF<sup>[9]</sup></td>
             <td>Inference</td>
             <td>AISTATS'2025</td>
@@ -123,7 +125,6 @@
             <td><a href="https://github.com/danielemarinazzo/TE_decomposition">GitHub</a></td>
         </tr>
         <tr>
-            <td>Information-Theoretic Approach for HOI</td>
             <td>PED<sup>[11]</sup></td>
             <td>Inference</td>
             <td>PNAS'2023</td>
@@ -143,7 +144,7 @@
             <td>-</td>
         </tr>
         <tr>
-            <td rowspan="7">HOT Aware Feature Extraction</td>
+            <td rowspan="3">HOT Aware Feature Extraction</td>
             <td>PCN<sup>[14]</sup></td>
             <td>Representation learning</td>
             <td>AAAI'2024</td>
@@ -162,6 +163,7 @@
             <td><a href="https://github.com/simonepiaggesi/simplex2pred">GitHub</a></td>
         </tr>
         <tr>
+            <td rowspan="5">Message Passing for HOT</td>
             <td>CIN++<sup>[17]</sup></td>
             <td>Representation learning</td>
             <td>Preprint'2023</td>
@@ -186,13 +188,13 @@
             <td><a href="https://github.com/topologicalpooling/TopologicalPool">GitHub</a></td>
         </tr>
         <tr>
-            <td rowspan="3">Spectral-based Learning for HOT</td>
             <td>TopoGDN<sup>[21]</sup></td>
             <td>Representation learning</td>
             <td>CIKM'2024</td>
             <td><a href="https://github.com/ljj-cyber/TopoGDN">GitHub</a></td>
         </tr>
         <tr>
+            <td rowspan="3">Spectral-based Learning for HOT</td>
             <td>BScNets<sup>[22]</sup></td>
             <td>Representation learning</td>
             <td>AAAI'2022</td>
