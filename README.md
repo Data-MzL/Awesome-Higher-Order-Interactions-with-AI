@@ -62,152 +62,152 @@
     <tbody>
         <tr>
             <td rowspan="3">Pattern-based Generative Model</td>
-            <td>Thera<sup>[1]</sup></td>
+            <td>Thera</td>
             <td>Generation</td>
             <td>KDD'2023</td>
             <td><a href="https://github.com/kswoo97/hypertrans">GitHub</a></td>
         </tr>
         <tr>
-            <td>HyperLap<sup>[2]</sup></td>
+            <td>HyperLap</td>
             <td>Generation</td>
             <td>WWW'2021</td>
             <td><a href="https://github.com/young917/www2.1-hyperlap">GitHub</a></td>
         </tr>
         <tr>
-            <td>HyRec<sup>[3]</sup></td>
+            <td>HyRec</td>
             <td>Generation</td>
             <td>WWW'2025</td>
             <td><a href="https://github.com/young917/HyRec">GitHub</a></td>
         </tr>
         <tr>
             <td rowspan="2">Diffusion-based Generative Model</td>
-            <td>HYGENE<sup>[4]</sup></td>
+            <td>HYGENE</td>
             <td>Generation, Representation learning</td>
             <td>Preprint'2024</td>
             <td><a href="https://github.com/DorianGailhard/HYGENE">GitHub</a></td>
         </tr>
         <tr>
-            <td>DDE<sup>[5]</sup></td>
+            <td>DDE</td>
             <td>Generation, Representation learning</td>
             <td>Preprint'2025</td>
             <td>-</td>
         </tr>
         <tr>
             <td rowspan="3">Statistical Inference Method</td>
-            <td>BHyRe<sup>[6]</sup></td>
+            <td>BHyRe</td>
             <td>Inference</td>
             <td>Commun.Phys.'2021</td>
             <td><a href="https://github.com/k-zhou/hypergraph-recovery">GitHub</a></td>
         </tr>
         <tr>
-            <td>SIEM<sup>[7]</sup></td>
+            <td>SIEM</td>
             <td>Inference</td>
             <td>Nat.Commun.'2022</td>
             <td><a href="https://github.com/HuanWang2022/reconstruct_simplicial_complex">GitHub</a></td>
         </tr>
         <tr>
-            <td>KHiT<sup>[8]</sup></td>
+            <td>KHiT</td>
             <td>Inference</td>
             <td>NeurIPS'2023</td>
             <td><a href="https://github.com/barahona-research-group/streitberg-interaction">GitHub</a></td>
         </tr>
         <tr>
             <td rowspan="3">Information-Theoretic Approach for HOI</td>
-            <td>LHOIF<sup>[9]</sup></td>
+            <td>LHOIF</td>
             <td>Inference</td>
             <td>AISTATS'2025</td>
             <td><a href="https://github.com/neurips2024hoi/nips2024hoi">GitHub</a></td>
         </tr>
         <tr>
-            <td>DHETE<sup>[10]</sup></td>
+            <td>DHETE</td>
             <td>Inference</td>
             <td>Phys.revres.'2024</td>
             <td><a href="https://github.com/danielemarinazzo/TE_decomposition">GitHub</a></td>
         </tr>
         <tr>
-            <td>PED<sup>[11]</sup></td>
+            <td>PED</td>
             <td>Inference</td>
             <td>PNAS'2023</td>
             <td>-</td>
         </tr>
         <tr>
             <td rowspan="2">Learning-based Method for HOI</td>
-            <td>DCM<sup>[12]</sup></td>
+            <td>DCM</td>
             <td>Inference, Representation learning</td>
             <td>ICLR'2024</td>
             <td><a href="https://github.com/spindro/differentiable_cell-complex_module">GitHub</a></td>
         </tr>
         <tr>
-            <td>SHyRe<sup>[13]</sup></td>
+            <td>SHyRe</td>
             <td>Inference, Representation learning</td>
             <td>ICLR'2024</td>
             <td>-</td>
         </tr>
         <tr>
             <td rowspan="3">HOT Aware Feature Extraction</td>
-            <td>PCN<sup>[14]</sup></td>
+            <td>PCN</td>
             <td>Representation learning</td>
             <td>AAAI'2024</td>
             <td><a href="https://github.com/quang-truong/Path-Complex-Networks">GitHub</a></td>
         </tr>
         <tr>
-            <td>CliquePH<sup>[15]</sup></td>
+            <td>CliquePH</td>
             <td>Representation learning</td>
             <td>LoG'2024</td>
             <td><a href="https://github.com/DavideBuffelli/CliquePH">GitHub</a></td>
         </tr>
         <tr>
-            <td>SIMPLEX2VEC<sup>[16]</sup></td>
+            <td>SIMPLEX2VEC</td>
             <td>Representation learning</td>
             <td>PMLR'2022</td>
             <td><a href="https://github.com/simonepiaggesi/simplex2pred">GitHub</a></td>
         </tr>
         <tr>
             <td rowspan="5">Message Passing for HOT</td>
-            <td>CIN++<sup>[17]</sup></td>
+            <td>CIN++</td>
             <td>Representation learning</td>
             <td>Preprint'2023</td>
             <td><a href="https://github.com/twitter-research/cwn">GitHub</a></td>
         </tr>
         <tr>
-            <td>SCN<sup>[18]</sup></td>
+            <td>SCN</td>
             <td>Representation learning</td>
             <td>TAPMI'2023</td>
             <td>-</td>
         </tr>
         <tr>
-            <td>CSMPNs<sup>[19]</sup></td>
+            <td>CSMPNs</td>
             <td>Representation learning</td>
             <td>ICLR'2024</td>
             <td><a href="https://github.com/congliuUvA/Clifford-Group-Equivariant-Simplicial-Message-Passing-Networks">GitHub</a></td>
         </tr>
         <tr>
-            <td>Wit-TopoPool<sup>[20]</sup></td>
+            <td>Wit-TopoPool</td>
             <td>Representation learning</td>
             <td>AAAI'2023</td>
             <td><a href="https://github.com/topologicalpooling/TopologicalPool">GitHub</a></td>
         </tr>
         <tr>
-            <td>TopoGDN<sup>[21]</sup></td>
+            <td>TopoGDN</td>
             <td>Representation learning</td>
             <td>CIKM'2024</td>
             <td><a href="https://github.com/ljj-cyber/TopoGDN">GitHub</a></td>
         </tr>
         <tr>
             <td rowspan="3">Spectral-based Learning for HOT</td>
-            <td>BScNets<sup>[22]</sup></td>
+            <td>BScNets</td>
             <td>Representation learning</td>
             <td>AAAI'2022</td>
             <td><a href="https://github.com/BScNets/BScNets">GitHub</a></td>
         </tr>
         <tr>
-            <td>HiGCN<sup>[23]</sup></td>
+            <td>HiGCN</td>
             <td>Representation learning</td>
             <td>AAAI'2024</td>
             <td><a href="https://github.com/Yiminghh/HiGCN">GitHub</a></td>
         </tr>
         <tr>
-            <td>SNN-PDE<sup>[24]</sup></td>
+            <td>SNN-PDE</td>
             <td>Representation learning</td>
             <td>AAAI'2024</td>
             <td><a href="https://github.com/yuzhouguangc/SNNPDE">GitHub</a></td>
